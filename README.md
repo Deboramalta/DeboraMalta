@@ -192,6 +192,7 @@
     height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Deboramalta&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=deboramalta)](https://github.com/stats-organization/github-stats-extended)
   />
 
 <img 
